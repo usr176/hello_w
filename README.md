@@ -1,4 +1,4 @@
 ## About Me
 
-I am Isaac Newton\
-I discovered Gravity
+I am Isaac Newton.\
+I discovered Gravity.
